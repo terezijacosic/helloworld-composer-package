@@ -1,0 +1,25 @@
+{
+    "name": "tena/hello-world",
+    "description": "Simple package to say Hello World!",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "terezijacosic",
+            "email": "terezija.cosic@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+          "Helloworld": "src/"
+        }
+    },
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/terezijacosic/helloworld-composer-package"
+        }
+    ]
+}

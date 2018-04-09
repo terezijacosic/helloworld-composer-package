@@ -15,11 +15,5 @@
         "psr-0": {
           "Helloworld": "src/"
         }
-    },
-    "repositories": [
-        {
-          "type": "vcs",
-          "url": "https://github.com/terezijacosic/helloworld-composer-package"
-        }
-    ]
+    }
 }

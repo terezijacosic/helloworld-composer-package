@@ -1,6 +1,7 @@
 {
     "name": "tena/hello-world",
     "description": "Simple package to say Hello World!",
+    "license": "GPL 3.0",
     "require": {
         "php": ">=5.3.0"
     },
